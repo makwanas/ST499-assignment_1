@@ -1,0 +1,14 @@
+.WorkspaceBody{
+    padding: 10px;
+    display: flex;
+    height:100%;
+}
+
+.LeftInputBody{
+    flex:1
+}
+
+.RightOutputBody{
+    flex:3;
+    margin-left: 10px; 
+}

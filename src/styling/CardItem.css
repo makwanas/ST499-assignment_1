@@ -1,0 +1,32 @@
+.CardItemBody{
+    border-style: solid;
+    border-width: 3px;
+    margin: 5px;
+    padding:5px;
+}
+
+.CardItemImage{
+    height:300px;
+    width:300px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.CardDetails{
+    display: flex;  
+}
+
+.CardItemCaption{
+    text-align: center;
+    flex: 1;
+}
+
+.DeleteButton{
+    background-color:#E74C3C; 
+    font-size: 20px;
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+    border-style: solid;
+    border-width: 1px;   
+}

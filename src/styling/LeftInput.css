@@ -1,0 +1,22 @@
+.ButtonStyle{
+    background-color:  #1C2833;
+    font-size: 20px;
+    padding: 5px;
+    color: white;
+    transition-duration: 0.4s;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    width:fit-content;
+}
+
+.ButtonStyle:hover{
+    color: white;
+    background-color: #1A5276;
+    cursor: pointer;
+}
+
+.LeftInputBody{
+    width:100%;
+}
+

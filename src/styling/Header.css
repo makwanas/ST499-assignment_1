@@ -1,0 +1,21 @@
+.HeaderBody{
+    display:flex;
+    justify-content: center;
+    background-color: #1A5276;
+    border-color: black;
+    border-style: solid;
+    border-bottom-width: 5px;
+    position: sticky;
+}
+
+.ImageBody{
+    height: 50px;
+    width: 70px;
+}
+
+.HeaderText{
+    color: white;
+    margin-left: 20px;
+}
+
+
